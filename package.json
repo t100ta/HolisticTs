@@ -1,6 +1,10 @@
 {
   "name": "try-holistic-js",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/t100ta/HolisticTs.git"
+  },
   "description": "",
   "main": "index.html",
   "scripts": {
